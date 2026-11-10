@@ -1,0 +1,36 @@
+
+# Deep Learning
+tensorflow==2.20.0
+
+# Data Processing
+numpy
+pandas
+
+# Machine Learning
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# NLP
+nltk
+spacy
+gensim
+
+# Computer Vision
+opencv-python
+Pillow
+
+# Document Processing
+PyMuPDF
+python-docx
+
+# API Development
+fastapi
+uvicorn
+python-multipart
+
+# Development
+jupyter
+ipykernel
