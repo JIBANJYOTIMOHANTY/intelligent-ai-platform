@@ -35,5 +35,8 @@ python-multipart
 jupyter
 ipykernel
 
+# pytorch
+torch
+
 # Test
 pytest
