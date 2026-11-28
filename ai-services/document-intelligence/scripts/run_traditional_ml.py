@@ -96,7 +96,7 @@ def main():
         "recall_macro",
         "recall_weighted",
         "f1_macro",
-        "f1_weighted"
+        "f1_weighted "
     ]:
         print(f"{metric_name}: {test_metrics[metric_name]:.4f}")
 
